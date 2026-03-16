@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "manufacturing-ai-dictionary",
-      "source": ".",
+      "source": "./plugins/manufacturing-ai-dictionary",
       "description": "제조 AI / 스마트팩토리 용어 사전. PM/기획자가 제조 도메인을 빠르게 이해할 수 있도록 용어를 HTML 카드 형태로 설명해주는 스킬."
     }
   ]
